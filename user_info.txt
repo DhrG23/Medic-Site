@@ -1,0 +1,7 @@
+name: Dhruv Gautam
+age: 123
+place: Delhi
+smoking: Yes
+previous_disease: Yes
+phone: 123456789
+email: dghruv@gmail.com
